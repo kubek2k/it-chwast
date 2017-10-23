@@ -30,7 +30,7 @@
   * Strangeloop: https://www.thestrangeloop.com/
 * Dan Bodar - homepage
 * Wyszukiwarka whitepaperow
-* Link do artykulu Piotrka o czytaniu paperow
+* Artykuł Piotrka o czytaniu whitepaperów https://codearsonist.com/reading-for-programmers
 * Coursera: https://www.coursera.org
 * Future learn: https://www.futurelearn.com
 * Sunken fallacy cost
