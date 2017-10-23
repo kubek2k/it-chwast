@@ -8,7 +8,7 @@
   * nixos: https://nixos.org/
   * disnix: https://nixos.org/disnix/
   * nixops: https://nixos.org/nixops/
-* Daahl: https://github.com/dhall-lang/dhall-lang
+* Dhall: https://github.com/dhall-lang/dhall-lang
 * Haskell:
 	* Future learn Haskell: https://www.futurelearn.com/courses/functional-programming-haskell/
   * Learn You a Haskell for Great Good: http://learnyouahaskell.com/
