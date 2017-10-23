@@ -2,6 +2,7 @@
 
 ## Shownotes
 
+### Aktualne zajawki
 * Nix 
   * nix package manager: https://nixos.org/nix/
   * nixos: https://nixos.org/
@@ -19,6 +20,7 @@
   * Kahneman
   * Erikson
   * Nicole Forthsgren, Jez Humble
+### Zrodla zajawek
 * Stefan Tilkov: https://twitter.com/stilkov
 * Brian Lonsdorf: https://twitter.com/drboolean
 * Michael Fogus: https://twitter.com/fogus
@@ -32,7 +34,7 @@
 * Coursera: https://www.coursera.org
 * Future learn: https://www.futurelearn.com
 * Sunken fallacy cost
-Heurystyki 
+### Heurystyki 
 * Java enterprise edition
 *  SOA corba i microserwisy
 * Przekaz pozytywny/negatywny
