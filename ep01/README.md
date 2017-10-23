@@ -37,6 +37,4 @@
 * Future learn: https://www.futurelearn.com
 * Koszty utopione: https://en.wikipedia.org/wiki/Sunk_cost
 ### Heurystyki 
-* Java enterprise edition
-*  SOA corba i microserwisy
-* Przekaz pozytywny/negatywny
+* List Edsgera W. Dijkstry do Rady Budżetowej University of Texas (a nie MIT jak to było powiedziane w podcascie) w sprawie zmiany Haskella na Javę http://chrisdone.com/posts/dijkstra-haskell-java
