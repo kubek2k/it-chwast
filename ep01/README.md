@@ -25,7 +25,7 @@
 * Konferencje z ciekawymi tematami:
   * LambdaDays: http://www.lambdadays.org/
   * Polyconf: https://polyconf.com/
-	* Strangeloop: https://www.thestrangeloop.com/
+  * Strangeloop: https://www.thestrangeloop.com/
 * Dan Bodar - homepage
 * Wyszukiwarka whitepaperow
 * Link do artykulu Piotrka o czytaniu paperow
