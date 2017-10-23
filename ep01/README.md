@@ -5,7 +5,7 @@
 * Nix 
   * nix package manager: https://nixos.org/nix/
   * nixos: https://nixos.org/
-	* disnix: https://nixos.org/disnix/
+  * disnix: https://nixos.org/disnix/
   * nixops: https://nixos.org/nixops/
 * Daahl: https://github.com/dhall-lang/dhall-lang
 * Haskell:
