@@ -31,7 +31,6 @@
 * Daniel Worthington-Bodart
 	* https://github.com/bodar
 	* talk o szybkich buildach https://www.infoq.com/presentations/Crazy-Fast-Build-Times-or-When-10-Seconds-Starts-to-Make-You-Nervous
-* Wyszukiwarka whitepaperow
 * Artykuł Piotrka o czytaniu whitepaperów https://codearsonist.com/reading-for-programmers
 * Coursera: https://www.coursera.org
 * Future learn: https://www.futurelearn.com
