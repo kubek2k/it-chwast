@@ -28,7 +28,9 @@
   * LambdaDays: http://www.lambdadays.org/
   * Polyconf: https://polyconf.com/
   * Strangeloop: https://www.thestrangeloop.com/
-* Dan Bodar - homepage
+* Dan Bodar
+	* homepage http://dan.bodar.com/
+	* talk o szybkich buildach https://www.infoq.com/presentations/Crazy-Fast-Build-Times-or-When-10-Seconds-Starts-to-Make-You-Nervous
 * Wyszukiwarka whitepaperow
 * Artykuł Piotrka o czytaniu whitepaperów https://codearsonist.com/reading-for-programmers
 * Coursera: https://www.coursera.org
