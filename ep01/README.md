@@ -16,10 +16,10 @@
 * Applescript (nie klikac, grozi uszkodzeniem mozgu): https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html
 * CSS in depth: https://www.manning.com/books/css-in-depth
 * Designing data intensive applications - Martin Klepmann: http://shop.oreilly.com/product/0636920032175.do
-* Uncertified scrum master
-  * Kahneman
-  * Erikson
-  * Nicole Forthsgren, Jez Humble
+* Uncertified scrum master (http://business-management.pl/program/)
+  * Daniel Kahneman: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
+  * Anders Ericsson: https://www.amazon.com/Peak-Secrets-New-Science-Expertise/dp/0544456238
+  * Nicole Forsgren, Jez Humble: https://puppet.com/resources/whitepaper/state-of-devops-report
 ### Zrodla zajawek
 * Stefan Tilkov: https://twitter.com/stilkov
 * Brian Lonsdorf: https://twitter.com/drboolean
