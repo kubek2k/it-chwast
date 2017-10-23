@@ -35,7 +35,7 @@
 * Artykuł Piotrka o czytaniu whitepaperów https://codearsonist.com/reading-for-programmers
 * Coursera: https://www.coursera.org
 * Future learn: https://www.futurelearn.com
-* Sunken cost fallacy: https://en.wikipedia.org/wiki/Sunk_cost
+* Koszty utopione: https://en.wikipedia.org/wiki/Sunk_cost
 ### Heurystyki 
 * Java enterprise edition
 *  SOA corba i microserwisy
